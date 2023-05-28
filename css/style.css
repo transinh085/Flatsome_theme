@@ -24,7 +24,7 @@ html {
 }
 
 @media only screen and (max-width: 48em) {
-  /*************** ADD MOBILE ONLY CSS HERE  ***************/
+  /************* ** ADD MOBILE ONLY CSS HERE  ***************/
 
   .home .row .section {
     padding-left: 0px;
